@@ -1,5 +1,5 @@
 ﻿using System;
-Console.WriteLine("Witaj");
+Console.WriteLine("Witaj w pracy 1");
 Console.WriteLine("Podaj liczbe");
 string input = Console.ReadLine();
 if (input == ""){
