@@ -1,1 +1,2 @@
-Merge nie byl fast-forward bo w miedzyczasie galaz main otrzymala nowe zmiany
+Merge nie byl fast-forward bo w miedzyczasie galaz main otrzymala nowe zmiany.
+Przed rebase.
