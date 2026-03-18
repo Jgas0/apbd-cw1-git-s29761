@@ -1,1 +1,1 @@
-Plik README
+Merge nie byl fast-forward bo w miedzyczasie galaz main otrzymala nowe zmiany
