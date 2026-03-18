@@ -1,1 +1,3 @@
-﻿Console.WriteLine("Hello, World!");
+﻿using System;
+Console.WriteLine("Witaj");
+public class StatisticsHelper{}
